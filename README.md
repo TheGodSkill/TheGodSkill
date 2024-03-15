@@ -1,20 +1,15 @@
-# Welcome to Brokeskill's GitHub Profile! 👋
+# Brokeskill's GitHub Profile! 👋
 
 ## About Me
 
-Hey there! I'm Brokeskill, a passionate programmer with a love for robotics and technology. I enjoy diving into the world of code and building cool things. Here's a bit more about me:
-
-- 🚀 Currently exploring the realms of programming and robotics.
-- 💻 Proficient in Python, Java, and more.
-- 🤖 Always up for a challenge in building and tinkering with robotic systems.
-
-## Technologies I Love
+Hi I'm Brokeskill, a programmer with a love for robotics and technology.
 
 - **Programming Languages:**
   - Python
   - Java
   - Kotlin
   - Flutter
+  - C#
 
 - **Robotics:**
   - Building and programming robotic systems
